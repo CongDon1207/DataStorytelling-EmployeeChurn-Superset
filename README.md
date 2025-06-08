@@ -44,7 +44,7 @@ Giảng viên hướng dẫn: TS. Lê Quang Thái
 | STT | Họ và Tên Sinh Viên | Mã số sinh viên | Tỉ lệ % tham gia | Mô tả nhiệm vụ |
 | :-- | :------------------ | :-------------- | :--------------- | :-------------- |
 | 01  | Mai Hồng Hải        | 22133014        | 100%             | Xác định các nhóm nhân sự có nguy cơ nghỉ việc cao. Phân tích mô hình dự đoán, huấn luyện mô hình và đánh giá kết quả. |
-| 02  | Nguyễn Công Đôn     | 22133013        | 100%             | Phụ trách Data Storytelling, trực quan hóa tình hình nhân sự, báo cáo tổng hợp và trình bày cuối. |
+| 02  | Nguyễn Công Đôn     | 22133013        | 100%             | Phụ trách Data Storytelling, phân tích và trực quan hóa tình hình nhân sự, báo cáo tổng hợp và trình bày cuối. |
 | 03  | Nguyễn Tấn Hùng     | 22133027        | 100%             | Phân tích EDA (Exploratory Data Analysis), xử lý dữ liệu, trực quan hóa biểu đồ phân tích các yếu tố ảnh hưởng đến quyết định nghỉ việc. |
 
 ## 📧 Liên Hệ
