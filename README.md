@@ -50,6 +50,5 @@ Giảng viên hướng dẫn: TS. Lê Quang Thái
 ## 📧 Liên Hệ
 
 Nếu có bất kỳ câu hỏi hoặc góp ý nào về dự án, vui lòng liên hệ với mình thông qua địa chỉ email 
-sangdon2004@gmail.com
 ---
 
